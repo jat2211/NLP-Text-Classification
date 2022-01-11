@@ -8,4 +8,5 @@ The final step of the model evaluates the now complete model to make predictions
 
 ## Skills Used
 - Python
+- data structures
 - **broader domains: natural language processing, machine learning**
